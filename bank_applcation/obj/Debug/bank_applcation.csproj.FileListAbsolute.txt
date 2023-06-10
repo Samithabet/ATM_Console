@@ -1,0 +1,8 @@
+D:\مجلد جديد\bank_applcation\bank_applcation\obj\Debug\bank_applcation.csproj.AssemblyReference.cache
+D:\مجلد جديد\bank_applcation\bank_applcation\obj\Debug\bank_applcation.csproj.SuggestedBindingRedirects.cache
+D:\مجلد جديد\bank_applcation\bank_applcation\obj\Debug\bank_applcation.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\bank_applcation\bank_applcation\bin\Debug\bank_applcation.exe.config
+D:\مجلد جديد\bank_applcation\bank_applcation\bin\Debug\bank_applcation.exe
+D:\مجلد جديد\bank_applcation\bank_applcation\bin\Debug\bank_applcation.pdb
+D:\مجلد جديد\bank_applcation\bank_applcation\obj\Debug\bank_applcation.exe
+D:\مجلد جديد\bank_applcation\bank_applcation\obj\Debug\bank_applcation.pdb
